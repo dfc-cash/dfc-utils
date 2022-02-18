@@ -1,0 +1,13 @@
+{
+  "name": "dfc-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@polkadot/keyring": "7.6.1"
+  },
+  "resolutions": {
+    "@polkadot/keyring": "7.6.1"
+  }
+}
